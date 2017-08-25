@@ -1,5 +1,5 @@
 # KDotOrTDot
-<img src="http://direct.rhapsody.com/imageserver/images/imgs.209027147/500x500.jpg">
+<img src="https://i.imgur.com/k64VRi2.jpg">
 
 ## Check if something is more likely to be said by Kendrick Lamar or Drake
 
